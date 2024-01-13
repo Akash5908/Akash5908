@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React.js, Node.js**
 
-- 📫 How to reach me **akashmeena6398@gmail.com**
+- 📫 How to reach me **anakkuu0331@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1jCoxahPLT3AVZendP2fhiVc3JyCWyoXjw5CmlcMfVgY/edit](https://docs.google.com/document/d/1jCoxahPLT3AVZendP2fhiVc3JyCWyoXjw5CmlcMfVgY/edit)
 
