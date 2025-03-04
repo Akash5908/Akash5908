@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash5908" alt="akash5908" /></a> </p>
 
-- 🔭 I’m currently working on [Delhi by Cycle](https://www.delhibycycle.com/)
+- 🔭 I’m currently looking for Job
 
 - 💬 Ask me about FullStack and related Technologies **Express.js, Tailwind, Bootstrap, MaterialUI, Next.js**
 
