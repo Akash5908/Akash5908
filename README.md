@@ -7,8 +7,6 @@
 
 - 💬 Ask me about FullStack and related Technologies **Express.js, Tailwind, Bootstrap, MaterialUI, Next.js**
 
-- 🌱 I’m currently looking for a **Job**
-
 - ⚡ Excited and Open for Thrilling **Freelancing Opportunities! ⚡**
 
 - 👨‍💻 All of my projects are available at ([https://akashportfolio-nine.vercel.app/](https://akashportfolio-gamma.vercel.app/))
