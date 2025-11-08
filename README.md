@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">I'm a passionate Full Stack Developer with a keen interest in creating exceptional web experiences. My expertise lies in both frontend and backend technologies, and I thrive on crafting innovative solutions. Currently contributing my skills to [Delhi By Cycle](https://www.delhibycycle.com/), where we're revolutionizing travel experiences through cycling adventures.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer with a keen interest in creating exceptional web experiences. My expertise lies in both frontend and backend technologies, and I thrive on crafting innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash5908&label=Profile%20views&color=0e75b6&style=flat" alt="akash5908" /> </p>
 
