@@ -9,7 +9,7 @@
 
 - ⚡ Excited and Open for Thrilling **Freelancing Opportunities! ⚡**
 
-- 👨‍💻 All of my projects are available at ([https://akashportfolio-nine.vercel.app/](https://akashportfolio-gamma.vercel.app/))
+- 👨‍💻 All of my projects are available at ([https://akashfullstack.site/](https://akashfullstack.site/))
 
 - 💬 Ask me about **React.js, Node.js**
 
