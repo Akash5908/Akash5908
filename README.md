@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash5908&label=Profile%20views&color=0e75b6&style=flat" alt="akash5908" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash5908" alt="akash5908" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=akash5908&theme=light" alt="akash5908" /></a> </p>
 
 - 💬 Ask me about FullStack and related Technologies **Express.js, Tailwind, Bootstrap, MaterialUI, Next.js**
 
