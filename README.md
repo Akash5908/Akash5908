@@ -11,11 +11,9 @@
 
 - 👨‍💻 All of my projects are available at ([https://akashfullstack.site/](https://akashfullstack.site/))
 
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about **Next.js, React.js, Node.js**
 
 - 📫 How to reach me **anakkuu0331@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1jCoxahPLT3AVZendP2fhiVc3JyCWyoXjw5CmlcMfVgY/edit](https://docs.google.com/document/d/1jCoxahPLT3AVZendP2fhiVc3JyCWyoXjw5CmlcMfVgY/edit)
 
 - ⚡ Fun fact **I Think, I Like to do Impossible Things.**
 
